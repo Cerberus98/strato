@@ -1,3 +1,6 @@
+Hacked webgl globe intended to display random datapoints from logs
+
+
 The **WebGL Globe** is an open platform for visualizing geographic
 information in WebGL enabled browsers.
 It supports data in JSON format, a sample of which you can find [here]
